@@ -2,7 +2,6 @@
 - 👀 I’m into Data Analysis
 - 📫 How to reach me- Aminat Akiinyemi on LinkedIn, X, Instagram
 - Email- akinyemiaminat92@gmail.com
-- 😄 Pronouns: Her, She
 
 <!---
 AminatAkinyemi/AminatAkinyemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
