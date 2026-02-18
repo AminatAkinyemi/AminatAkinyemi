@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @AminatAkinyemi
-- 👀 I’m interested in Web Development and Cybersecurity
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Development and Cybersecurity projects
-- 📫 How to reach me- Aminat Akiinyemi on LinkedIn, Twitter, Instagram
+- 👋 Hi, I’m Aminat Akinyemi
+- 👀 I’m into Data Analysis
+- 📫 How to reach me- Aminat Akiinyemi on LinkedIn, X, Instagram
+- Email- akinyemiaminat92@gmail.com
 - 😄 Pronouns: Her, She
-- ⚡ Fun fact: ...
 
 <!---
 AminatAkinyemi/AminatAkinyemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
